@@ -1,0 +1,8 @@
+﻿  CppCLR_WinformsProjekt.cpp
+F:\kurs_visual\real_attempts\first\first\engine.h(9): warning C4018: <: несоответствие типов со знаком и без знака
+F:\kurs_visual\real_attempts\first\first\engine.h(74): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\kurs_visual\real_attempts\first\first\engine.h(77): warning C4018: <: несоответствие типов со знаком и без знака
+F:\kurs_visual\real_attempts\first\first\Form1.h(283): warning C4700: использована неинициализированная локальная переменная "y"
+F:\kurs_visual\real_attempts\first\first\Form1.h(283): warning C4700: использована неинициализированная локальная переменная "x"
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  first.vcxproj -> F:\kurs_visual\real_attempts\first\Debug\first.exe

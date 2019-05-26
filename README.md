@@ -1,4 +1,4 @@
-# game_2048
+# Game 2048 written in C++ using VS2019 with WinForms 
 2048 da Game. Simple 2048 logic with the GUI (C++, WinForms, VS 2019)
 
 The 2048 implementation.

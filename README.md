@@ -10,4 +10,5 @@ The highest score is stored in highest.dat
 Game can run properly without highest.dat file, then it will be created.
 
 To control use WASD(it does what you expect).
+
 Do not press Alt btn in game. Then, the game will crash. Dunno how it works.

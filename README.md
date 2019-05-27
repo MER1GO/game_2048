@@ -13,4 +13,4 @@ To control use WASD(it does what you expect).
 
 Do not press Alt btn in game. Then, the game will crash. Dunno how it works.
 
-Design: https://github.com/MER1GO/game_2048/issues/1#issue-448552984
+Design: https://github.com/MER1GO/game_2048/issues/2#issue-448929899
